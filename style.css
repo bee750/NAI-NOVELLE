@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Maison Élégance | Luxury Fashion</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<div class="logo">
+Maison Élégance
+</div>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">Collections</a></li>
+
+<li><a href="#">Lookbook</a></li>
+
+<li><a href="#">About</a></li>
+
+<li><a href="#">Contact</a></li>
+
+</ul>
+
+<a href="#" class="btn">Shop Now</a>
+
+</nav>
+
+<section class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>
+Luxury Tailored for Modern Icons
+</h1>
+
+<p>
+Exclusive couture, premium fabrics,
+timeless elegance, and contemporary fashion.
+</p>
+
+<div class="buttons">
+
+<a href="#" class="primary">
+Explore Collection
+</a>
+
+<a href="#" class="secondary">
+Book Consultation
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+</header>
+
+<section class="featured">
+
+<h2>Featured Collection</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800">
+
+<h3>Women's Luxury</h3>
+
+</div>
+
+<div class="card">
+
+<img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800">
+
+<h3>Men's Collection</h3>
+
+</div>
+
+<div class="card">
+
+<img src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=800">
+
+<h3>Accessories</h3>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="about">
+
+<div class="left">
+
+<h2>Crafted With Perfection</h2>
+
+<p>
+
+Maison Élégance blends couture craftsmanship
+with modern luxury, creating exclusive
+fashion pieces inspired by global elegance.
+
+</p>
+
+<a href="#">Read More</a>
+
+</div>
+
+<div class="right">
+
+<img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=900">
+
+</div>
+
+</section>
+
+<footer>
+
+<div>
+
+<h3>Maison Élégance</h3>
+
+<p>Luxury Fashion House</p>
+
+</div>
+
+<div>
+
+<i class="fab fa-instagram"></i>
+
+<i class="fab fa-facebook"></i>
+
+<i class="fab fa-pinterest"></i>
+
+<i class="fab fa-youtube"></i>
+
+</div>
+
+<p>
+
+© 2026 Maison Élégance. All Rights Reserved.
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
